@@ -1,0 +1,13 @@
+{
+  "name": "next-commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "github:martinkors/next-commands",
+  "author": "martinkors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinkors/next-commands/issues"
+  }
+}
