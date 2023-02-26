@@ -1,0 +1,14 @@
+# IDE
+.idea
+.vscode
+.vs
+.editorconfig
+
+# Build files
+lib
+node_modules
+
+# Test files
+coverage
+jest.config.js
+**/*.test.ts

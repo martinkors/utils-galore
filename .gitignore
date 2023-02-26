@@ -1,0 +1,11 @@
+# IDE
+.idea
+.vscode
+.vs
+
+# Build files
+lib
+node_modules
+
+# Test files
+coverage
