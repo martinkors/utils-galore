@@ -1,7 +1,7 @@
 {
   "name": "next-commands",
   "version": "1.0.0",
-  "description": "A ",
+  "description": "A package containing different helper classes and functions.",
   "scripts": {
     "dev": "tsc --watch",
     "build": "tsc",
