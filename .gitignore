@@ -10,4 +10,4 @@ node_modules
 yarn-error.log
 
 # Test files
-coverage
+coverage/
