@@ -6,6 +6,8 @@
 # Build files
 lib
 node_modules
+*.tgz
+yarn-error.log
 
 # Test files
 coverage

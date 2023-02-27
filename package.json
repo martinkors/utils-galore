@@ -1,18 +1,18 @@
 {
-  "name": "next-commands",
+  "name": "utils-galore",
   "version": "1.0.0",
-  "description": "A package containing different helper classes and functions.",
+  "description": "A package containing different helper classes, functions and more.",
   "scripts": {
     "dev": "tsc --watch",
     "build": "tsc",
     "prepublish": "tsc",
     "test": "jest"
   },
-  "repository": "github:martinkors/next-commands",
+  "repository": "https://github.com/martinkors/utils-galore",
   "author": "martinkors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/martinkors/next-commands/issues"
+    "url": "https://github.com/martinkors/utils-galore/issues"
   },
   "devDependencies": {
     "@types/jest": "^29.4.0",
